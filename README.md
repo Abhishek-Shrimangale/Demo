@@ -1,4 +1,4 @@
 # Demo
 This is my first Git Repository.
-Author - Abhishek Shriamngale
+Author - Abhishek Shriamangale
 
