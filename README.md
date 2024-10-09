@@ -1,5 +1,5 @@
 # Demo
 This is my first Git Repository.
 <br>
-Author - Abhishek Shriamangale
+Author - Abhishek Shrimangale
 
